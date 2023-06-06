@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Elilou14</h1>
 <h3 align="center">Developer full stack & Digital Marketing</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elilou14&label=Profile%20views&color=0e75b6&style=flat" alt="elilou14" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elilou14" alt="elilou14" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on [aa](aa)
 
 <h3 align="left">Connect with me:</h3>
@@ -14,3 +20,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/elielhazan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/elielhazan" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elilou14&show_icons=true&locale=en&layout=compact" alt="elilou14" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elilou14&show_icons=true&locale=en" alt="elilou14" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elilou14&" alt="elilou14" /></p>
