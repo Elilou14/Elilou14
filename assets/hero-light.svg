@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-label="EXOLIANCE — Automatisations &amp; outils sur mesure"><title>EXOLIANCE — Automatisations &amp; outils sur mesure</title>
+<style>
+  .sans{font-family:Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;}
+  .mono{font-family:'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace;}
+  .t{fill:#141A21;} .m{fill:#5A6674;} .a{fill:#3E8C00;} .a2{fill:#0083B8;}
+  
+  .word{opacity:0; animation:rot 12s infinite both; transform-box:fill-box;}
+  @keyframes rot{
+    0%{opacity:0; transform:translateY(14px);}
+    3.00%{opacity:1; transform:translateY(0);}
+    21.25%{opacity:1; transform:translateY(0);}
+    24.50%{opacity:0; transform:translateY(-14px);}
+    100%{opacity:0; transform:translateY(-14px);}
+  }
+  .log{opacity:0; animation:log 8s infinite both;}
+  @keyframes log{ 0%{opacity:0;} 4%{opacity:1;} 80%{opacity:1;} 90%{opacity:0;} 100%{opacity:0;} }
+  .blink{animation:blink 1s steps(1) infinite;}
+  @keyframes blink{ 50%{opacity:0;} }
+
+  @media (prefers-reduced-motion: reduce){ *{animation:none!important;} }
+</style>
+<rect x="1" y="1" width="998" height="458" rx="20" fill="#FFFFFF" stroke="#D5DDE5"/>
+<defs>
+  <pattern id="gridh" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#EEF2F6" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="gmaskh" cx="50%" cy="50%" r="65%">
+    <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
+  </radialGradient>
+  <mask id="fadeh"><rect width="1000" height="460" fill="url(#gmaskh)"/></mask>
+  <clipPath id="cardcliph"><rect x="1" y="1" width="998" height="458" rx="20"/></clipPath>
+</defs>
+<rect x="1" y="1" width="998" height="458" rx="20" fill="url(#gridh)" mask="url(#fadeh)"/>
+<defs>
+  <radialGradient id="glow"><stop offset="0" stop-color="#3E8C00" stop-opacity="0.14"/><stop offset="1" stop-color="#3E8C00" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2"><stop offset="0" stop-color="#0083B8" stop-opacity="0.14"/><stop offset="1" stop-color="#0083B8" stop-opacity="0"/></radialGradient>
+  <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="0" y2="0">
+    <stop offset="0" stop-color="#141A21"/>
+    <stop offset="0.45" stop-color="#141A21"/>
+    <stop offset="0.5" stop-color="#3E8C00"/>
+    <stop offset="0.55" stop-color="#141A21"/>
+    <stop offset="1" stop-color="#141A21"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1400 0;1400 0" keyTimes="0;0.55;1" dur="7s" begin="1.4s" repeatCount="indefinite"/>
+  </linearGradient>
+  <clipPath id="reveal"><rect x="40" y="110" width="0" height="120">
+    <animate attributeName="width" values="0;620" keyTimes="0;1" dur="1.1s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  </rect></clipPath>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3E8C00" stop-opacity="0"/><stop offset="1" stop-color="#3E8C00" stop-opacity="0.07"/></linearGradient>
+  <clipPath id="wordwin"><rect x="56" y="318" width="520" height="40"/></clipPath>
+</defs>
+<g clip-path="url(#cardcliph)">
+  <circle cx="250" cy="200" r="300" fill="url(#glow)">
+    <animate attributeName="cx" values="220;360;220" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="260" r="240" fill="url(#glow2)">
+    <animate attributeName="cy" values="300;180;300" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="0" y="0" width="1000" height="90" fill="url(#scan)">
+    <animate attributeName="y" values="-100;470" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<g transform="translate(56 50)">
+  <rect width="334" height="30" rx="15" fill="#F4F7FA" stroke="#D5DDE5"/>
+  <circle cx="18" cy="15" r="4" fill="#3E8C00"/>
+  <circle cx="18" cy="15" r="4" fill="none" stroke="#3E8C00" stroke-width="2">
+    <animate attributeName="r" values="4;12" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="34" y="19.5" class="mono t" font-size="11.5" letter-spacing="1.4">DISPONIBLE POUR DE NOUVEAUX PROJETS</text>
+</g>
+<text x="58" y="124" class="mono m" font-size="13" letter-spacing="0.5">// studio d'automatisation — Île-de-France</text>
+<g clip-path="url(#reveal)">
+  <text x="52" y="210" class="sans" font-size="88" font-weight="800" fill="url(#shine)"
+        textLength="540" lengthAdjust="spacingAndGlyphs">EXOLIANCE</text>
+</g>
+<rect x="58" y="230" width="0" height="5" rx="2.5" fill="#3E8C00">
+  <animate attributeName="width" values="0;72" dur="0.6s" begin="1.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+</rect>
+<text x="58" y="280" class="sans t" font-size="27" font-weight="650">Automatisations &amp; outils sur mesure</text>
+<text x="58" y="314" class="mono m" font-size="14">conçus pour les</text>
+<g clip-path="url(#wordwin)">
+<text x="58" y="348" class="sans a word" font-size="27" font-weight="750" style="animation-delay:0s">clubs sportifs</text>
+<text x="58" y="348" class="sans a word" font-size="27" font-weight="750" style="animation-delay:3s">établissements</text>
+<text x="58" y="348" class="sans a word" font-size="27" font-weight="750" style="animation-delay:6s">associations</text>
+<text x="58" y="348" class="sans a word" font-size="27" font-weight="750" style="animation-delay:9s">PME &amp; équipes terrain</text>
+</g>
+<text x="58" y="410" class="mono m" font-size="12.5">run#2048 ›</text>
+<text x="146" y="410" class="mono log" font-size="12.5" style="animation-delay:0.0s"><tspan class="a">✓</tspan> <tspan class="t">inscription reçue</tspan></text>
+<text x="305" y="410" class="mono log" font-size="12.5" style="animation-delay:0.6s"><tspan class="a">✓</tspan> <tspan class="t">facture générée</tspan></text>
+<text x="449" y="410" class="mono log" font-size="12.5" style="animation-delay:1.2s"><tspan class="a">✓</tspan> <tspan class="t">planning à jour</tspan></text>
+<text x="593" y="410" class="mono log" font-size="12.5" style="animation-delay:1.7999999999999998s"><tspan class="a">✓</tspan> <tspan class="t">SMS envoyé</tspan></text>
+<rect x="699" y="399" width="8" height="14" fill="#3E8C00" class="blink"/>
+<g>
+<path d="M694 150 C 730 150, 714 232, 750 232" fill="none" stroke="#D5DDE5" stroke-width="2"/>
+<path d="M694 150 C 730 150, 714 232, 750 232" fill="none" stroke="#0083B8" stroke-width="2" stroke-dasharray="3 9" opacity="0.7"><animate attributeName="stroke-dashoffset" values="24;0" dur="0.9s" repeatCount="indefinite"/></path>
+<path d="M694 232 C 730 232, 714 232, 750 232" fill="none" stroke="#D5DDE5" stroke-width="2"/>
+<path d="M694 232 C 730 232, 714 232, 750 232" fill="none" stroke="#0083B8" stroke-width="2" stroke-dasharray="3 9" opacity="0.7"><animate attributeName="stroke-dashoffset" values="24;0" dur="0.9s" repeatCount="indefinite"/></path>
+<path d="M694 314 C 730 314, 714 232, 750 232" fill="none" stroke="#D5DDE5" stroke-width="2"/>
+<path d="M694 314 C 730 314, 714 232, 750 232" fill="none" stroke="#0083B8" stroke-width="2" stroke-dasharray="3 9" opacity="0.7"><animate attributeName="stroke-dashoffset" values="24;0" dur="0.9s" repeatCount="indefinite"/></path>
+<path d="M830 232 C 861 232, 847 150, 878 150" fill="none" stroke="#D5DDE5" stroke-width="2"/>
+<path d="M830 232 C 861 232, 847 150, 878 150" fill="none" stroke="#3E8C00" stroke-width="2" stroke-dasharray="3 9" opacity="0.7"><animate attributeName="stroke-dashoffset" values="24;0" dur="0.9s" repeatCount="indefinite"/></path>
+<path d="M830 232 C 861 232, 847 232, 878 232" fill="none" stroke="#D5DDE5" stroke-width="2"/>
+<path d="M830 232 C 861 232, 847 232, 878 232" fill="none" stroke="#3E8C00" stroke-width="2" stroke-dasharray="3 9" opacity="0.7"><animate attributeName="stroke-dashoffset" values="24;0" dur="0.9s" repeatCount="indefinite"/></path>
+<path d="M830 232 C 861 232, 847 314, 878 314" fill="none" stroke="#D5DDE5" stroke-width="2"/>
+<path d="M830 232 C 861 232, 847 314, 878 314" fill="none" stroke="#3E8C00" stroke-width="2" stroke-dasharray="3 9" opacity="0.7"><animate attributeName="stroke-dashoffset" values="24;0" dur="0.9s" repeatCount="indefinite"/></path>
+<circle r="4.5" fill="#0083B8" opacity="0"><animateMotion dur="1.3s" begin="0.00s" repeatCount="indefinite" path="M694 150 C 730 150, 714 232, 750 232" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.3s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle r="4.5" fill="#0083B8" opacity="0"><animateMotion dur="1.3s" begin="0.85s" repeatCount="indefinite" path="M694 232 C 730 232, 714 232, 750 232" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.3s" begin="0.85s" repeatCount="indefinite"/></circle>
+<circle r="4.5" fill="#0083B8" opacity="0"><animateMotion dur="1.3s" begin="1.70s" repeatCount="indefinite" path="M694 314 C 730 314, 714 232, 750 232" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.3s" begin="1.70s" repeatCount="indefinite"/></circle>
+<circle r="4.5" fill="#3E8C00" opacity="0"><animateMotion dur="1.3s" begin="2.60s" repeatCount="indefinite" path="M830 232 C 861 232, 847 150, 878 150" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.3s" begin="2.60s" repeatCount="indefinite"/></circle>
+<circle r="4.5" fill="#3E8C00" opacity="0"><animateMotion dur="1.3s" begin="3.45s" repeatCount="indefinite" path="M830 232 C 861 232, 847 232, 878 232" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.3s" begin="3.45s" repeatCount="indefinite"/></circle>
+<circle r="4.5" fill="#3E8C00" opacity="0"><animateMotion dur="1.3s" begin="4.30s" repeatCount="indefinite" path="M830 232 C 861 232, 847 314, 878 314" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.3s" begin="4.30s" repeatCount="indefinite"/></circle>
+<g transform="translate(584 131)"><rect width="110" height="38" rx="10" fill="#F4F7FA" stroke="#D5DDE5" stroke-width="1.5"><animate attributeName="stroke" values="#D5DDE5;#0083B8;#D5DDE5" keyTimes="0;0.15;1" dur="1.3s" begin="0.00s" repeatCount="indefinite"/></rect><circle cx="14" cy="19" r="3.5" fill="#0083B8"/><text x="26" y="23.5" class="mono t" font-size="12.5">Formulaire</text></g>
+<g transform="translate(584 213)"><rect width="110" height="38" rx="10" fill="#F4F7FA" stroke="#D5DDE5" stroke-width="1.5"><animate attributeName="stroke" values="#D5DDE5;#0083B8;#D5DDE5" keyTimes="0;0.15;1" dur="1.3s" begin="0.85s" repeatCount="indefinite"/></rect><circle cx="14" cy="19" r="3.5" fill="#0083B8"/><text x="26" y="23.5" class="mono t" font-size="12.5">Paiement</text></g>
+<g transform="translate(584 295)"><rect width="110" height="38" rx="10" fill="#F4F7FA" stroke="#D5DDE5" stroke-width="1.5"><animate attributeName="stroke" values="#D5DDE5;#0083B8;#D5DDE5" keyTimes="0;0.15;1" dur="1.3s" begin="1.70s" repeatCount="indefinite"/></rect><circle cx="14" cy="19" r="3.5" fill="#0083B8"/><text x="26" y="23.5" class="mono t" font-size="12.5">Email</text></g>
+<g transform="translate(878 131)"><rect width="94" height="38" rx="10" fill="#F4F7FA" stroke="#D5DDE5" stroke-width="1.5"><animate attributeName="stroke" values="#D5DDE5;#3E8C00;#D5DDE5" keyTimes="0;0.15;1" dur="1.3s" begin="3.75s" repeatCount="indefinite"/></rect><circle cx="14" cy="19" r="3.5" fill="#3E8C00"/><text x="26" y="23.5" class="mono t" font-size="12.5">CRM</text></g>
+<g transform="translate(878 213)"><rect width="94" height="38" rx="10" fill="#F4F7FA" stroke="#D5DDE5" stroke-width="1.5"><animate attributeName="stroke" values="#D5DDE5;#3E8C00;#D5DDE5" keyTimes="0;0.15;1" dur="1.3s" begin="4.60s" repeatCount="indefinite"/></rect><circle cx="14" cy="19" r="3.5" fill="#3E8C00"/><text x="26" y="23.5" class="mono t" font-size="12.5">Planning</text></g>
+<g transform="translate(878 295)"><rect width="94" height="38" rx="10" fill="#F4F7FA" stroke="#D5DDE5" stroke-width="1.5"><animate attributeName="stroke" values="#D5DDE5;#3E8C00;#D5DDE5" keyTimes="0;0.15;1" dur="1.3s" begin="5.45s" repeatCount="indefinite"/></rect><circle cx="14" cy="19" r="3.5" fill="#3E8C00"/><text x="26" y="23.5" class="mono t" font-size="12.5">Facture</text></g>
+<circle cx="790" cy="232" r="40" fill="none" stroke="#3E8C00" stroke-width="1.5" opacity="0">
+  <animate attributeName="r" values="40;76" dur="2.6s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.6;0" dur="2.6s" repeatCount="indefinite"/>
+</circle>
+<circle cx="790" cy="232" r="52" fill="none" stroke="#3E8C00" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.8">
+  <animateTransform attributeName="transform" type="rotate" values="0 790 232;360 790 232" dur="14s" repeatCount="indefinite"/>
+</circle>
+<circle cx="790" cy="232" r="40" fill="#F4F7FA" stroke="#3E8C00" stroke-width="2"/>
+<g transform="translate(790 232)">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="9s" repeatCount="indefinite"/>
+    <path d="M0 -19 L4.5 -8 L16.5 -9.5 L9.5 0 L16.5 9.5 L4.5 8 L0 19 L-4.5 8 L-16.5 9.5 L-9.5 0 L-16.5 -9.5 L-4.5 -8Z"
+          fill="none" stroke="#3E8C00" stroke-width="2" stroke-linejoin="round"/>
+    <circle r="6" fill="#3E8C00"/>
+  </g>
+</g>
+<text x="790" y="310" text-anchor="middle" class="mono m" font-size="11.5" letter-spacing="1">exoliance.engine</text>
+<text x="584" y="106" class="mono m" font-size="11" letter-spacing="1.5">ENTRÉES</text>
+<text x="878" y="106" class="mono m" font-size="11" letter-spacing="1.5">SORTIES</text>
+</g>
+</svg>

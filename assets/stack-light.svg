@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="96" viewBox="0 0 1000 96" role="img" aria-label="Outils maîtrisés : Python, Node.js, n8n, Make, Zapier, Google Apps Script, Airtable, Notion API, Supabase, Webhooks, REST API, Stripe, Google Workspace, Brevo"><title>Outils maîtrisés : Python, Node.js, n8n, Make, Zapier, Google Apps Script, Airtable, Notion API, Supabase, Webhooks, REST API, Stripe, Google Workspace, Brevo</title>
+<style>
+  .sans{font-family:Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;}
+  .mono{font-family:'JetBrains Mono', 'SF Mono', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace;}
+  .t{fill:#141A21;} .m{fill:#5A6674;} .a{fill:#3E8C00;} .a2{fill:#0083B8;}
+  
+  @media (prefers-reduced-motion: reduce){ *{animation:none!important;} }
+</style>
+<defs>
+  <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#000"/><stop offset="0.08" stop-color="#fff"/><stop offset="0.92" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+  <mask id="edgem"><rect width="1000" height="96" fill="url(#edge)"/></mask>
+</defs>
+<rect x="1" y="1" width="998" height="94" rx="18" fill="#FFFFFF" stroke="#D5DDE5"/>
+<text x="28" y="30" class="mono m" font-size="11.5" letter-spacing="1.5">// STACK &amp; OUTILS</text>
+<g mask="url(#edgem)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-1603 0" dur="35.6s" repeatCount="indefinite"/>
+<g transform="translate(20 44)"><rect width="86" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Python</text></g>
+<g transform="translate(118 44)"><rect width="94" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Node.js</text></g>
+<g transform="translate(224 44)"><rect width="63" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">n8n</text></g>
+<g transform="translate(299 44)"><rect width="71" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Make</text></g>
+<g transform="translate(382 44)"><rect width="86" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Zapier</text></g>
+<g transform="translate(480 44)"><rect width="180" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Google Apps Script</text></g>
+<g transform="translate(672 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Airtable</text></g>
+<g transform="translate(786 44)"><rect width="118" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Notion API</text></g>
+<g transform="translate(916 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Supabase</text></g>
+<g transform="translate(1030 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Webhooks</text></g>
+<g transform="translate(1144 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">REST API</text></g>
+<g transform="translate(1258 44)"><rect width="86" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Stripe</text></g>
+<g transform="translate(1356 44)"><rect width="164" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Google Workspace</text></g>
+<g transform="translate(1532 44)"><rect width="79" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Brevo</text></g>
+<g transform="translate(1623 44)"><rect width="86" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Python</text></g>
+<g transform="translate(1721 44)"><rect width="94" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Node.js</text></g>
+<g transform="translate(1827 44)"><rect width="63" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">n8n</text></g>
+<g transform="translate(1902 44)"><rect width="71" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Make</text></g>
+<g transform="translate(1985 44)"><rect width="86" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Zapier</text></g>
+<g transform="translate(2083 44)"><rect width="180" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Google Apps Script</text></g>
+<g transform="translate(2275 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Airtable</text></g>
+<g transform="translate(2389 44)"><rect width="118" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Notion API</text></g>
+<g transform="translate(2519 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Supabase</text></g>
+<g transform="translate(2633 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Webhooks</text></g>
+<g transform="translate(2747 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">REST API</text></g>
+<g transform="translate(2861 44)"><rect width="86" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Stripe</text></g>
+<g transform="translate(2959 44)"><rect width="164" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Google Workspace</text></g>
+<g transform="translate(3135 44)"><rect width="79" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Brevo</text></g>
+<g transform="translate(3226 44)"><rect width="86" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Python</text></g>
+<g transform="translate(3324 44)"><rect width="94" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Node.js</text></g>
+<g transform="translate(3430 44)"><rect width="63" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">n8n</text></g>
+<g transform="translate(3505 44)"><rect width="71" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Make</text></g>
+<g transform="translate(3588 44)"><rect width="86" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Zapier</text></g>
+<g transform="translate(3686 44)"><rect width="180" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Google Apps Script</text></g>
+<g transform="translate(3878 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Airtable</text></g>
+<g transform="translate(3992 44)"><rect width="118" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Notion API</text></g>
+<g transform="translate(4122 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Supabase</text></g>
+<g transform="translate(4236 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Webhooks</text></g>
+<g transform="translate(4350 44)"><rect width="102" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">REST API</text></g>
+<g transform="translate(4464 44)"><rect width="86" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Stripe</text></g>
+<g transform="translate(4562 44)"><rect width="164" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Google Workspace</text></g>
+<g transform="translate(4738 44)"><rect width="79" height="32" rx="16" fill="#F4F7FA" stroke="#D5DDE5"/><circle cx="16" cy="16" r="3.5" fill="#3E8C00"/><text x="28" y="20.5" class="mono t" font-size="13">Brevo</text></g>
+</g></g></svg>
